@@ -9,7 +9,6 @@
 
 @media (max-width: 1020px) {
   .cards__description {
-    text-align: center;
     order: 2;
     margin: 24px auto 0;
     text-align: left;

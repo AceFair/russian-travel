@@ -6,7 +6,7 @@
 }
 
 @media (max-width : 1024px) {
-  .gallery__item {
+.gallery__item {
     width: 314px;
     height: 214px;
     padding: 7px;
@@ -22,7 +22,7 @@
 }
 
 @media (max-width : 375px) {
-  .gallery__item {
+.gallery__item {
     width: 343px;
     height: 240px;
     padding: 4px 0;
@@ -30,7 +30,7 @@
 }
 
 @media (max-width : 360px) {
-  .gallery__item {
+.gallery__item {
     width: 288px;
     height: 208px;
     padding: 8px 0;
