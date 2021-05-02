@@ -8,4 +8,4 @@ HTML5, CSS3, БЭМ,Grid-layout
 
 ## Ссылка на проек Github:
 
-https://github.com/AceFair/russian-travel.git
+https://acefair.github.io/russian-travel/index.html
