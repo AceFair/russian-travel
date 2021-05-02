@@ -10,7 +10,7 @@
   display:flex;
   justify-content:center;
   flex-direction:row; 
-  margin: 0 auto 102px;
+  margin:0 auto 102px;
 }
 
 @media (max-width:1020px) {
