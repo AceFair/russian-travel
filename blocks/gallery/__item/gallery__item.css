@@ -14,7 +14,7 @@
 }
 
 @media (max-width : 768px) {
-  .gallery__item {
+.gallery__item {
     width: 368px;
     height: 250px;
     padding: 8px;
